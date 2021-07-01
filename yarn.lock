@@ -15003,10 +15003,10 @@
   dependencies:
     "loose-envify" "^1.0.0"
 
-"watcherswap-sdk@^1.0.1":
-  "integrity" "sha512-UKuaBHbUkdhUAkalwPg3MHASxjv+XctR6htrtI/RDfKmWsHQ+OUxn2Ef5vjlv1q4uL7T949jU74zgrLveuO4fA=="
-  "resolved" "https://registry.npmjs.org/watcherswap-sdk/-/watcherswap-sdk-1.0.1.tgz"
-  "version" "1.0.1"
+"watcherswap-sdk@^1.0.2":
+  "integrity" "sha512-YdwUC1hGSEVltys8kiJyEtVo6VcfNAIgv2dO8xn2xSGlNxbDCubaA7hAxa7fmM+nQFz8BJWq3IJIcsBQlPy/CA=="
+  "resolved" "https://registry.npmjs.org/watcherswap-sdk/-/watcherswap-sdk-1.0.2.tgz"
+  "version" "1.0.2"
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     "big.js" "^5.2.2"
